@@ -1,0 +1,69 @@
+html {
+    background-image:url(img/Demo-1.png);
+    background-attachment: fixed;
+}
+
+body {
+    background-color: white;
+    padding: 20px;
+    opacity: 0.95;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    text-align: justify;
+    font-family: 'Century Schoolbook', serif;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: 'Garamond', serif;
+    font-variant: small-caps;
+    font-size: 100px;
+    text-align: center;
+    color: goldenrod;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.h2 {
+    font-family: 'Garamond', serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    margin-top: 0px;
+}
+
+td.info {
+    font-size: 25px;
+    vertical-align: top;}
+
+table.gal {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td.caption {
+    text-align: center;
+    font-size: 23px;
+    height: 40px;
+}
+
+p.intro {
+    font-size: 30px;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
